@@ -10,5 +10,8 @@ public class mainUtils {
 
     }
 
+    public static void flyKite(){
+
+    }
 
 }

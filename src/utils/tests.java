@@ -8,4 +8,8 @@ public class tests {
 
     // working on tc124
 
-}
+    // ....
+
+    public static void main(String[] args) {
+        mainUtils.coolMethod();
+    }}
